@@ -14,11 +14,12 @@ news-homepage/
 ├── js/
 │   └── scripts.js
 ├── images/
-│   ├── featured1.jpg
-│   ├── featured2.jpg
-│   ├── article1.jpg
-│   ├── article2.jpg
-│   └── ... (other images)
+│   ├── image1.webp
+│   ├── image2.webp
+│   ├── image3.webp
+│   ├── image4.webp
+│   ├── image5.webp
+│   └── image6.webp
 ├── server/
 │   ├── node/
 │   │   ├── package.json
@@ -28,7 +29,7 @@ news-homepage/
 │       └── app.py
 ├── index.html
 └── README.md
-```
+
 
 ## How to Run
 
